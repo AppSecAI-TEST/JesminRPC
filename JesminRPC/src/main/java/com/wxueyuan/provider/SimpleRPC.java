@@ -1,5 +1,5 @@
 package com.wxueyuan.provider;
 
-public class ServiceProvider {
-
+public class SimpleRPC {
+	
 }
